@@ -34,6 +34,8 @@ O foco é entender o comportamento de clientes, produtos, vendas e delivery.
 
 📄 PDF Report – relatório final consolidado
 
+---
+
 ## 📁 Estrutura dos Dados
 
 Clientes
