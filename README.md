@@ -96,12 +96,16 @@ Arquivo SQL (queries.sql) contendo todas as consultas
 
 ---
 
-## 📘 Relatório PDF: adicione o link aqui
+## 📘 Relatório PDF
+
+[Baixar relatório em PDF](./relatorio.pdf)
 
 ---
 
 ## 👨‍🎓 Autor
 
 João Guilherme A. C. de Oliveira
+
 Disciplina: Estatística e Probabilidades
+
 Instituição: CESAR School
