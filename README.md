@@ -1,58 +1,104 @@
-📊 Análise de Dados de E-commerce
-Trabalho da disciplina Estatística e Probabilidades — CESAR School
-📘 Sobre o Projeto
+# 📊 Análise de Dados de E-commerce
 
-Este projeto consiste em uma análise completa dos dados de um e-commerce, utilizando técnicas estatísticas para identificar padrões, métricas importantes e oportunidades de melhoria.
-O objetivo é transformar dados brutos em insights relevantes por meio de visualizações, cálculos estatísticos e métricas descritivas.
+Projeto desenvolvido para a disciplina Estatística e Probabilidades da CESAR School, realizando uma análise completa de um dataset de e-commerce com SQL, Power BI e técnicas estatísticas.
 
-🧪 Tecnologias e Ferramentas Utilizadas
+---
 
-SQL Server — Consulta, limpeza e estruturação dos dados
+## 🧠 Objetivo do Projeto
 
-Power BI — Criação de dashboards e visualizações interativas
+Transformar dados brutos em insights acionáveis, aplicando:
 
-Notepad++ — Organização e tratamento das consultas SQL
+Estatística descritiva
 
-Estatística Descritiva — Média, mediana, variância, desvio-padrão, distribuição, frequências
+Consultas SQL
 
-PDF Report — Relatório final consolidado em arquivo PDF
+Visualização de dados
 
-📈 Escopo da Análise
+Limpeza e modelagem
 
-Perfil dos clientes
+Construção de relatório final em PDF
 
-Comportamento de compras
+O foco é entender o comportamento de clientes, produtos, vendas e delivery.
 
-Distribuição de pedidos por categoria
+---
 
-Frequência e sazonalidade
+## 🛠️ Tecnologias Utilizadas
 
-Análise de produtos mais vendidos
+🗄️ SQL Server – consultas, limpeza e extração de métricas
 
-Indicadores do funil de vendas
+📘 Notepad++ – organização e versionamento das queries
 
-Identificação de outliers e padrões importantes
+📊 Power BI – dashboards, gráficos e insights visuais
 
-📄 Entregáveis
+📐 Estatística Descritiva – médias, dispersões, outliers, distribuições
 
-Dashboard no Power BI
+📄 PDF Report – relatório final consolidado
 
-Relatório completo em PDF contendo:
+## 📁 Estrutura dos Dados
 
-Insights e análises estatísticas
+Clientes
+
+Produtos
+
+Pedidos
+
+Categorias
+
+Entregas
+
+Foram realizados tratamentos como:
+
+Remoção de duplicatas
+
+Padronização de campos
+
+Identificação de valores faltantes
+
+Criação de métricas derivadas (ticket médio, recorrência etc.)
+
+---
+
+## 🔍 Principais Análises
+
+Perfil e comportamento dos clientes
+
+Produtos mais vendidos e menos vendidos
+
+Ticket médio por período e por cliente
+
+Sazonalidade de vendas
+
+Frequência de pedidos (RFM simplificado)
+
+Recomendações baseadas nos achados
+
+Comportamento das entregas
+
+---
+
+📄 Entregáveis do Projeto
+
+Relatório em PDF contendo:
+
+Metodologia
+
+Análises estatísticas
 
 Tabelas e gráficos
 
 Conclusões e recomendações
 
-Arquivo SQL com todas as consultas utilizadas
+Arquivo Power BI (.pbix) com dashboards
 
-📥 Download
+Arquivo SQL (queries.sql) contendo todas as consultas
 
-🔗 Insira aqui o link do PDF
-🔗 Insira aqui seu repositório no GitHub
+---
 
-👨‍🎓 Autor
+📘 Relatório PDF: adicione o link aqui
+
+---
+
+## 👨‍🎓 Autor
 
 João Guilherme A. C. de Oliveira
 Disciplina: Estatística e Probabilidades
