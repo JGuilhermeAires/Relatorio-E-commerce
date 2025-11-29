@@ -78,7 +78,7 @@ Comportamento das entregas
 
 ---
 
-📄 Entregáveis do Projeto
+## 📄 Entregáveis do Projeto
 
 Relatório em PDF contendo:
 
@@ -96,7 +96,7 @@ Arquivo SQL (queries.sql) contendo todas as consultas
 
 ---
 
-📘 Relatório PDF: adicione o link aqui
+## 📘 Relatório PDF: adicione o link aqui
 
 ---
 
