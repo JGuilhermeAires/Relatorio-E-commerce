@@ -98,7 +98,7 @@ Arquivo SQL (queries.sql) contendo todas as consultas
 
 ## 📘 Relatório PDF
 
-[Baixar relatório em PDF](./Relatorio_Analitico_Ecommerce.pdf)
+[Baixar relatório em PDF](./Relat%C3%B3rio%20Anal%C3%ADtico%20%E2%80%93%20E-commerceee.pdf)
 
 ---
 
